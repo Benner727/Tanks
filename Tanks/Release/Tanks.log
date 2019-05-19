@@ -1,0 +1,110 @@
+﻿  AnimatedTexture.cpp
+  AssetManager.cpp
+  AudioManager.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\audiomanager.cpp(26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\audiomanager.cpp(27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\audiomanager.cpp(28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Background.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\background.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\background.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\background.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\background.cpp(60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\background.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\background.cpp(133): warning C4018: '<': signed/unsigned mismatch
+  BoxCollider.cpp
+  Bullet.cpp
+  CircleCollider.cpp
+  Collider.cpp
+  Defender.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\defender.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\defender.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\defender.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\defender.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\defender.cpp(118): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\defender.cpp(125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\defender.cpp(127): warning C4018: '<': signed/unsigned mismatch
+  Enemy.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\enemy.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\enemy.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  GameEntity.cpp
+  GameManager.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\gamemanager.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Graphics.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\graphics.cpp(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\graphics.cpp(160): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\graphics.cpp(161): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\graphics.cpp(164): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  InputManager.cpp
+  InstructionScreen.cpp
+  Level.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\level.cpp(14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\level.cpp(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\level.cpp(60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\level.cpp(62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\level.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\level.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\level.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\level.cpp(185): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Particle.cpp
+  PhysEntity.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\physicshelper.h(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\physicshelper.h(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\physicshelper.h(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\physicshelper.h(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\physicshelper.h(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\physicshelper.h(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\physentity.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\physentity.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\physentity.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  PhysicsManager.cpp
+  Compiling...
+  Player.cpp
+  PlayerUI.cpp
+  PlayScreen.cpp
+  Raider.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\raider.cpp(25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\raider.cpp(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\raider.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  ScoreBoard.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\scoreboard.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  Scout.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\scout.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\scout.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\scout.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\scout.cpp(120): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\scout.cpp(127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\scout.cpp(129): warning C4018: '<': signed/unsigned mismatch
+  ScreenManager.cpp
+  StartScreen.cpp
+  Tank.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tank.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tank.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tank.cpp(87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tank.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tank.cpp(238): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tank.cpp(248): warning C4018: '<': signed/unsigned mismatch
+  Texture.cpp
+  Tile.cpp
+  TileManager.cpp
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tilemanager.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tilemanager.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tilemanager.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tilemanager.cpp(100): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tilemanager.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tilemanager.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tilemanager.cpp(246): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tilemanager.cpp(273): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tilemanager.cpp(472): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\tanks\tanks\tilemanager.cpp(474): warning C4018: '<': signed/unsigned mismatch
+  Timer.cpp
+  Generating code
+  2129 of 2129 functions (100.0%) were compiled.
+    904 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tanks.vcxproj -> C:\Users\2339695\Desktop\Stephen Benner\Games\Tanks\Release\Tanks.exe
